@@ -1,1 +1,2 @@
-#!/bin/bash\nsu -l betty
+#!/bin/bash
+su -l betty

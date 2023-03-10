@@ -1,1 +1,2 @@
-#!/bin/bash\nsudo chmod 554 hello
+#!/bin/bash
+sudo chmod 554 hello

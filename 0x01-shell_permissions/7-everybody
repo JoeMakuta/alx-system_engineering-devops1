@@ -1,1 +1,2 @@
-#!/bin/bash\nsudo chmod 751 hello 
+#!/bin/bash
+sudo chmod 751 hello 
